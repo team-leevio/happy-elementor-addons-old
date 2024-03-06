@@ -1,3 +1,5 @@
+# This is an archived repository and won't be maintained anymore. Please follow our new repository
+[Follow Happy Elementor Addons](https://github.com/team-leevio/happy-elementor-addons)
 <br/>
 <p align="center">
     <a href="https://happyaddons.com/" target="_blank">
